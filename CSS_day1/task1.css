@@ -1,0 +1,8 @@
+@font-face {
+    font-family: 'Jacquard 24 Charted' ;
+    src: url('fonts/Jacquard_24_Charted.ttf/Jacquard_24_Charted/Jacquard24Charted-Regular.ttf') ;
+}
+p{
+    font-family: "Jacquard 24 Charted", sans-serif;
+    font-size: 8rem;
+}
